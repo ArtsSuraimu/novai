@@ -1,5 +1,6 @@
 # novai
 Simple Docker Deployment for the popular Anime AI drawer
+
 ** WARNING: Using this content might be illegal in your country or location. **
 
 ## Prerequisites for out-of-the-box execution (without rebuilding the modules and exchanging the transformer models)
