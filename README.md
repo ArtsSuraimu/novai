@@ -1,5 +1,5 @@
 # novai
-Simple Docker Deployment for the popular Anime AI drawer
+Simple Docker Deployment for the popular Anime AI Illustrator
 
 ** WARNING: Using this content might be illegal in your country or location. **
 
